@@ -168,3 +168,53 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.job-skills {
+    margin-left: -40px;
+    margin-top: 20px;
+}
+
+.job-skill{
+    float: right;
+    margin-right: 10px;
+    border-radius: 5px;
+    background-color: #26A6D1;
+    color : white;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 5px 5px 5px 5px;
+}
+
+
+.skill-header {
+	font-size: 20px;
+	color: white;
+	background: #3f51b5;
+	padding: 5px 10px 5px 10px;
+	border-radius: 2px;
+
+}
+
+
+.skills-row {
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.skills {
+
+    list-style-type: none;
+
+}
+.box{
+    list-style-type: none;
+    background: #b6b6b6;
+    padding: 20px 20px 20px 20px;
+    border-radius: 10px;
+}
+
+.box li{
+    font-size: 15px;
+    margin-left: 35px;
+    padding: 2px 2px 2px 2px;
+}
